@@ -1,8 +1,8 @@
 class TCompletion < Formula
   desc "Completion for CLI power tool for Twitter"
   homepage "http://sferik.github.com/t"
-  url "https://github.com/sferik/t/archive/v3.0.0.tar.gz"
-  sha256 "4dfd73b93f4855f4a477758f886e2efe41e56e47a3a4fa85e42ed6e908259f9e"
+  url "https://github.com/sferik/t/archive/v3.1.0.tar.gz"
+  sha256 "900ef6e3d6180b70bf2434503774ea5e1bf985b9110d4f051c44a191b08f6062"
   head "https://github.com/sferik/t.git"
 
   bottle :unneeded
